@@ -1,5 +1,10 @@
 
 ## engineering_blog
+* [High Scalability](http://highscalability.com/)
+* [All Things Distributed](https://www.allthingsdistributed.com/)
+* [Engineering blogs by top tech companies](https://blogboard.io/)
+* [medium](https://medium.com/)
+
 * [amazon science](https://www.amazon.science/blog)
 * [AWS Architecture Blog](https://aws.amazon.com/cn/blogs/architecture/)
 * [awesome-google-engineering-blogs](https://github.com/androiddevnotes/awesome-google-engineering-blogs)
