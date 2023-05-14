@@ -28,6 +28,7 @@
 * [FreeWheel](https://toutiao.io/tags/FreeWheel?type=latest)
 * [Twitter](https://blog.twitter.com/engineering/en_us)
 * [lyft](https://blogboard.io/source-feed/source/lyft-engineering-blog)
+* [slack](https://slack.engineering/)
 * [disney](https://medium.com/disney-streaming)
 * [salesforce-architects](https://medium.com/salesforce-architects)
 * [Salesforce](https://engineering.salesforce.com/blog/)
