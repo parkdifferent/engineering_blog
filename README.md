@@ -4,6 +4,7 @@
 * [All Things Distributed](https://www.allthingsdistributed.com/)
 * [Engineering blogs by top tech companies](https://blogboard.io/)
 * [medium](https://medium.com/)
+* [thenewstack](https://thenewstack.io/)
 
 * [amazon science](https://www.amazon.science/blog)
 * [AWS Architecture Blog](https://aws.amazon.com/cn/blogs/architecture/)
